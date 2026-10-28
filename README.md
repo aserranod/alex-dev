@@ -2,7 +2,7 @@
 
 ## Sobre mi
 
-Soc l'Alex, estudiant de desenvolupament d'aplicacions web (DAW). En aquest perfil comparteixo projectes que he fet durant els estudis i les tecnologies que vaig aprenent.
+Soc l'Alex, estudiant de segon curs del grau superior de Desenvolupament d’Aplicacions Web (DAW). M’interessa el món de la informàtica, especialment el desenvolupament web i la programació. Fora dels estudis, m’apassiona el bàsquet i soc seguidor de l’RCD Espanyol.
 
 ![Estudiant de desenvolupament d'aplicacions web](https://img.shields.io/badge/DAW-estudiant-2563eb)
 
