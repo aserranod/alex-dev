@@ -34,16 +34,3 @@ Projecte realitzat en equip durant els estudis de DAW, en què hem treballat con
 - **Correu electrònic:** [serdialex21@gmail.com](mailto:serdialex21@gmail.com)
 - **GitHub:** [aserranod](https://github.com/aserranod)
 
-## Reflexió personal
-
-**Què he après?**
-
-He après a utilitzar diferents llenguatges de programació i eines per desenvolupar projectes web. També he millorat treballant amb Git i GitHub.
-
-**Què m'ha costat més?**
-
-Algunes parts de la programació i la resolució d'errors m'han costat, perquè de vegades és difícil trobar què falla en el codi.
-
-**Què vull millorar?**
-
-Vull practicar més la programació, millorar l'organització del codi i aprendre noves tecnologies per fer projectes més complets.
